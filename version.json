@@ -8,6 +8,6 @@
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk",
   "releases_url": "https://github.com/jemangr/lexidrop-releases/releases",
-  "release_notes_el": "Έκδοση v1.1.0: 🌟 Προσθήκη Daily Challenge Mode (Καθημερινή Πρόκληση με κοινό seed), ⚡ Κεραυνός & ★ Prism Wildcard ειδικά πλακίδια, 🏆 Σύστημα 10 Επιτευγμάτων & Τροπαίων, 📢 Λειτουργία Κοινοποίησης Σκορ και επέκταση σε 50+ ερωτήσεις γνώσεων ανά γλώσσα!",
-  "release_notes_en": "Version v1.1.0: 🌟 Added Daily Challenge Mode (globally seeded daily quest), ⚡ Lightning & ★ Prism Wildcard tiles, 🏆 10 Achievements & Trophy Hall, 📢 Scorecard Sharing Engine, and expanded 50+ trivia bounties per language!"
+  "release_notes_el": "Έκδοση v1.1.0: 🌟 Προσθήκη Daily Challenge Mode (Καθημερινή Πρόκληση με κοινό seed), ⚡ Κεραυνός & ★ Prism Wildcard ειδικά πλακίδια, 🏆 Σύστημα 10 Επιτευγμάτων & Τροπαίων, 📢 Λειτουργία Κοινοποίησης Σκορ, μετονομασία θέματος σε Artisan Word Tiles και επέκταση σε 200 ερωτήσεις γνώσεων ανά γλώσσα (400 σύνολο)!",
+  "release_notes_en": "Version v1.1.0: 🌟 Added Daily Challenge Mode (globally seeded daily quest), ⚡ Lightning & ★ Prism Wildcard tiles, 🏆 10 Achievements & Trophy Hall, 📢 Scorecard Sharing Engine, renamed theme to Artisan Word Tiles, and expanded 200 trivia bounties per language (400 total)!"
 }

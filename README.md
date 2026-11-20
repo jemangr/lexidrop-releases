@@ -2,9 +2,9 @@
 
 # 📜 LexiDrop - Official Releases
 
-<img src="screenshots/lexidrop_theme_artisan.png" width="300" alt="LexiDrop Artisan Scrabble" style="border-radius: 18px; box-shadow: 0 12px 30px rgba(0,0,0,0.6);" />
+<img src="screenshots/lexidrop_theme_artisan.png" width="300" alt="LexiDrop Artisan Word Tiles" style="border-radius: 18px; box-shadow: 0 12px 30px rgba(0,0,0,0.6);" />
 
-<h3>Artisan Scrabble Word Collapse &amp; Brain Trivia Puzzle</h3>
+<h3>Artisan Word Tiles Collapse &amp; Brain Trivia Puzzle</h3>
 <p><em>Συνδέστε γειτονικά γράμματα, προκαλέστε καταρρεύσεις βαρύτητας και λύστε κουίζ γνώσεων!</em></p>
 
 <br>
@@ -63,9 +63,9 @@
 
 ## ✨ Χαρακτηριστικά & Δυνατότητες (v1.1.0)
 
-- 🔠 **Artisan Scrabble Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
+- 🔠 **Artisan Word Tiles Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
 - 🌠 **Κατακρήμνιση Βαρύτητας (Gravity Collapse):** Οι λέξεις εξαφανίζονται με ρεαλιστικά σωματίδια ξύλου και νέα γράμματα πέφτουν από ψηλά σε πραγματικό χρόνο!
-- 📜 **Brain Quiz Trivia Targets:** 50+ ερωτήσεις γνώσεων ανά γλώσσα σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη και Τέχνες. Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
+- 📜 **Brain Quiz Trivia Targets:** 200 ερωτήσεις γνώσεων ανά γλώσσα (400 συνολικά) σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη και Τέχνες. Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
 - ⚡ **4 Ειδικά Πλακίδια Δύναμης:**
   - ⚡ **Κεραυνός (Lightning Tile):** Καθαρίζει ολόκληρη τη γραμμή και τη στήλη σε ένα φωτεινό shockwave!
   - ★ **Prism Wild (Μπαλαντέρ):** Λαμπερό μπαλαντέρ που ταιριάζει με οποιοδήποτε γράμμα.
@@ -76,7 +76,7 @@
 - 📢 **Κοινοποίηση Σκορ:** Με ένα κλικ μοιραστείτε τα ρεκόρ και τις καθημερινές σας νίκες μέσω Web Share API ή Clipboard.
 - 🎨 **3 Μοναδικά Θέματα Γραφικών:**
   1. **Obsidian Glass:** Μοντέρνο Dark Mode με frosted glass και neon cyan λάμψη.
-  2. **Artisan Scrabble (Default):** Vintage γραφείο καρυδιάς, παλαιωμένη περγαμηνή και σκαλιστά πλακίδια από ελεφαντόδοντο.
+  2. **Artisan Word Tiles (Default):** Vintage γραφείο καρυδιάς, παλαιωμένη περγαμηνή και σκαλιστά πλακίδια από ελεφαντόδοντο.
   3. **Candy Clay:** Παιχνιδιάρικο 3D pop με λαχταριστά ζελεδάκια καραμέλας.
 - 🕹️ **4 Game Modes:** Classic, 60s Blitz (Word Rush), Zen, και Daily Challenge.
 - 🇬🇷 / 🇬🇧 **Δίγλωσσο Λεξικό:** Άμεση αλλαγή μεταξύ Ελληνικών και Αγγλικών λεξικών και ερωτήσεων trivia.
@@ -88,7 +88,7 @@
 
 ## 📸 Screenshots Gallery
 
-| 1. Obsidian Glass | 2. Artisan Scrabble (Default) | 3. Candy Clay |
+| 1. Obsidian Glass | 2. Artisan Word Tiles (Default) | 3. Candy Clay |
 | :---: | :---: | :---: |
 | <img src="screenshots/lexidrop_theme_obsidian.png" width="220" /> | <img src="screenshots/lexidrop_theme_artisan.png" width="220" /> | <img src="screenshots/lexidrop_theme_clay.png" width="220" /> |
 
