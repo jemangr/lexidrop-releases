@@ -1,64 +1,88 @@
+<div align="center">
+
 # 📜 LexiDrop - Official Releases
 
-<p align="center">
-  <img src="screenshots/lexidrop_theme_artisan.png" width="280" alt="LexiDrop Artisan Scrabble" style="border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" />
-</p>
+<img src="screenshots/lexidrop_theme_artisan.png" width="300" alt="LexiDrop Artisan Scrabble" style="border-radius: 18px; box-shadow: 0 12px 30px rgba(0,0,0,0.6);" />
 
-<p align="center">
-  <strong>Artisan Scrabble Word Collapse & Brain Trivia Puzzle</strong><br>
-  <em>Connect adjacent letters, trigger gravity collapses, and solve trivia bounties!</em>
-</p>
+<h3>Artisan Scrabble Word Collapse &amp; Brain Trivia Puzzle</h3>
+<p><em>Συνδέστε γειτονικά γράμματα, προκαλέστε καταρρεύσεις βαρύτητας και λύστε κουίζ γνώσεων!</em></p>
 
-<p align="center">
-  <a href="https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk">
-    <img src="https://img.shields.io/badge/📥_Download-Latest_APK-success?style=for-the-badge&logo=android" alt="Download APK" />
-  </a>
+<br>
+
+<!-- ==================== MEGA CENTERED DOWNLOAD BUTTON ==================== -->
+<a href="https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk">
+  <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20LEXIDROP.APK%20(DIRECT%20DOWNLOAD)-22c55e?style=for-the-badge&logo=android&logoColor=white&labelColor=15803d" height="58" alt="Download lexidrop.apk" />
+</a>
+
+<br><br>
+
+## 👉 [📲 Download lexidrop.apk (Direct Download)](https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk) 👈
+
+<p><em>(Πάντα η τελευταία επίσημη έκδοση APK • Αυτόματη άμεση λήψη • Android 8.0+)</em></p>
+
+<br>
+
+<p>
   <a href="https://jemangr.app">
     <img src="https://img.shields.io/badge/🚀_Portfolio-jemangr.app-orange?style=for-the-badge" alt="jemangr.app" />
   </a>
+  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen?style=for-the-badge" alt="Version v1.1.0" />
+  <img src="https://img.shields.io/badge/Package-app.jemangr.lexidrop-blue?style=for-the-badge" alt="Package app.jemangr.lexidrop" />
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" alt="License" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen" alt="Version v1.1.0" />
-  <img src="https://img.shields.io/badge/Package-app.jemangr.lexidrop-blue" alt="Package app.jemangr.lexidrop" />
-  <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Platform" />
-  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License" />
-</p>
+</div>
 
 ---
 
-## 📥 Direct APK Download
+<div align="center">
 
-Download the latest certified release APK directly using the permanent link:
+## 📥 Άμεση Λήψη Εφαρμογής (APK)
 
-👉 **[Download lexidrop.apk (Direct Download)](https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk)** 👈
+Πατήστε το κουμπί για να κατεβάσετε άμεσα το επίσημο APK στο κινητό σας:
 
-*(Browse all previous builds and changelogs on the [GitHub Releases Page](https://github.com/jemangr/lexidrop-releases/releases).)*
+<br>
+
+<a href="https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk">
+  <img src="https://img.shields.io/badge/👉_DOWNLOAD_LEXIDROP.APK_(DIRECT_DOWNLOAD)_👈-22c55e?style=for-the-badge&logo=android&logoColor=white&labelColor=15803d" height="52" alt="Direct Download lexidrop.apk" />
+</a>
+
+<br><br>
+
+### 📱 **[👉 Download lexidrop.apk (Direct Download) 👈](https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk)**
+
+<small><em>(Απευθείας λήψη του τελευταίου release χωρίς ενδιάμεσες σελίδες)</em></small>
+
+<br><br>
+
+*(Μπορείτε να δείτε όλα τα προηγούμενα builds και changelogs στη [Σελίδα GitHub Releases](https://github.com/jemangr/lexidrop-releases/releases).)*
+
+</div>
 
 ---
 
-## ✨ Features & Highlights (v1.1.0)
+## ✨ Χαρακτηριστικά & Δυνατότητες (v1.1.0)
 
-- 🔠 **Artisan Scrabble Mechanics:** Touch and drag across adjacent letter tiles in any direction (horizontal, vertical, diagonal) to form words.
-- 🌠 **Gravity Collapse:** Valid words pop with tactile satisfaction, dropping new letter tiles from the ceiling in real time.
-- 📜 **Brain Quiz Trivia Targets:** 50+ curated questions per language across Geography, History, Mythology, Science, and Arts!
-- ⚡ **4 Special Tile Types:**
-  - ⚡ **Lightning Tile:** Clears the entire row and column in a spectacular shockwave!
-  - ★ **Prism Wild:** Shimmering wildcard tile substituting for *any* letter.
-  - 💣 **Bomb:** Destroys surrounding 3×3 tiles.
-  - **×2 Multiplier:** Doubles your entire word score.
-- 📅 **Daily Challenge Mode (Seeded):** A shared global challenge seeded by calendar date. Solve 3 progressive daily trivia quests and earn the Daily Champion badge!
-- 🏆 **10 Achievements & Trophies Hall:** Unlock rewarding badges (Word Apprentice, Trivia Sage, Blitz Striker, Lexicon Titan, Board Buster, Daily Champion, etc.).
-- 📢 **Result Card Sharing:** One-tap sharing of your scores and daily triumphs via native Web Share API or clipboard.
-- 🎨 **3 Gorgeous Visual Themes:**
-  1. **Obsidian Glass:** Modern frosted glass with neon cyan glow.
-  2. **Artisan Scrabble (Default):** Vintage walnut desk, aged parchment, and ivory tiles.
-  3. **Candy Clay:** Cheerful 3D pop aesthetic with juicy candy gummy tiles.
-- 🕹️ **4 Game Modes:** Classic, 60s Blitz (Word Rush), Zen, and Daily Challenge.
-- 🇬🇷 / 🇬🇧 **Bilingual Dictionaries:** Instant one-tap switching between comprehensive Greek and English word banks and trivia clues.
-- 🎵 **Procedural Audio & Haptics Engine:** Organic marimba strikes that ascend in pitch, electric lightning zaps, and tactile vibration feedback.
-- 🔄 **Automatic 6-Hour Update Checker:** Checks for new releases quietly in the background every 6 hours and alerts you with a one-tap direct download.
-- 📱 **Other Games Showcase:** Direct link to other apps created by the developer at [jemangr.app](https://jemangr.app).
+- 🔠 **Artisan Scrabble Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
+- 🌠 **Κατακρήμνιση Βαρύτητας (Gravity Collapse):** Οι λέξεις εξαφανίζονται με ρεαλιστικά σωματίδια ξύλου και νέα γράμματα πέφτουν από ψηλά σε πραγματικό χρόνο!
+- 📜 **Brain Quiz Trivia Targets:** 50+ ερωτήσεις γνώσεων ανά γλώσσα σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη και Τέχνες. Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
+- ⚡ **4 Ειδικά Πλακίδια Δύναμης:**
+  - ⚡ **Κεραυνός (Lightning Tile):** Καθαρίζει ολόκληρη τη γραμμή και τη στήλη σε ένα φωτεινό shockwave!
+  - ★ **Prism Wild (Μπαλαντέρ):** Λαμπερό μπαλαντέρ που ταιριάζει με οποιοδήποτε γράμμα.
+  - 💣 **Βόμβα (Bomb):** Εκρήγνυται σε ακτίνα 3×3.
+  - **×2 Multiplier:** Διπλασιάζει όλους τους πόντους της λέξης.
+- 📅 **Daily Challenge Mode (Καθημερινή Πρόκληση):** Κοινή παγκόσμια πρόκληση της ημέρας με κοινό seed. Λύστε 3 διαδοχικές ερωτήσεις και κερδίστε το τρόπαιο Daily Champion!
+- 🏆 **Αίθουσα 10 Επιτευγμάτων & Τροπαίων:** Ξεκλειδώστε μοναδικά παράσημα (Πρωτομάστορας, Σοφός του Ολύμπου, Αστραπιαίος, Μεγαλολεξικό, Καταστροφέας κ.ά.).
+- 📢 **Κοινοποίηση Σκορ:** Με ένα κλικ μοιραστείτε τα ρεκόρ και τις καθημερινές σας νίκες μέσω Web Share API ή Clipboard.
+- 🎨 **3 Μοναδικά Θέματα Γραφικών:**
+  1. **Obsidian Glass:** Μοντέρνο Dark Mode με frosted glass και neon cyan λάμψη.
+  2. **Artisan Scrabble (Default):** Vintage γραφείο καρυδιάς, παλαιωμένη περγαμηνή και σκαλιστά πλακίδια από ελεφαντόδοντο.
+  3. **Candy Clay:** Παιχνιδιάρικο 3D pop με λαχταριστά ζελεδάκια καραμέλας.
+- 🕹️ **4 Game Modes:** Classic, 60s Blitz (Word Rush), Zen, και Daily Challenge.
+- 🇬🇷 / 🇬🇧 **Δίγλωσσο Λεξικό:** Άμεση αλλαγή μεταξύ Ελληνικών και Αγγλικών λεξικών και ερωτήσεων trivia.
+- 🎵 **Procedural ASMR Ήχος & Haptics:** Αυθεντικοί ήχοι marimba που ανεβαίνουν κλίμακα καθώς μεγαλώνει η λέξη, ηλεκτρικοί κεραυνοί και απτική δόνηση.
+- 🔄 **Αυτόματος Έλεγχος Ενημερώσεων:** Ενσωματωμένος έλεγχος στο παρασκήνιο ανά 6 ώρες για νέες εκδόσεις APK με ένα κλικ.
+- 📱 **Οι Άλλες μας Εφαρμογές:** Άμεση καρτέλα προς τις υπόλοιπες εφαρμογές του δημιουργού στο [jemangr.app](https://jemangr.app).
 
 ---
 
@@ -78,12 +102,12 @@ Download the latest certified release APK directly using the permanent link:
 
 ---
 
-## 🛠️ Installation & Setup (Android)
+## 🛠️ Οδηγίες Εγκατάστασης στο Κινητό (Android)
 
-1. Download **[lexidrop.apk](https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk)** on your Android phone.
-2. Tap the downloaded file in your browser downloads or file manager.
-3. If prompted, allow "Install from Unknown Sources".
-4. Open **LexiDrop** and start spelling!
+1. Πατήστε το κουμπί **[Download lexidrop.apk](https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk)** από το κινητό σας.
+2. Ανοίξτε το αρχείο που κατεβάσατε από τις Λήψεις.
+3. Αν σας ζητηθεί, επιτρέψτε την "Εγκατάσταση από άγνωστες πηγές".
+4. Ανοίξτε το **LexiDrop** και ξεκινήστε το παιχνίδι!
 
 ---
 
