@@ -26,7 +26,7 @@
   <a href="https://jemangr.app">
     <img src="https://img.shields.io/badge/🚀_Portfolio-jemangr.app-orange?style=for-the-badge" alt="jemangr.app" />
   </a>
-  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen?style=for-the-badge" alt="Version v1.1.0" />
+  <img src="https://img.shields.io/badge/Version-v1.2.0-brightgreen?style=for-the-badge" alt="Version v1.2.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.lexidrop-blue?style=for-the-badge" alt="Package app.jemangr.lexidrop" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" alt="License" />
 </p>
@@ -61,11 +61,11 @@
 
 ---
 
-## ✨ Χαρακτηριστικά & Δυνατότητες (v1.1.0)
+## ✨ Χαρακτηριστικά & Δυνατότητες (v1.2.0)
 
 - 🔠 **Artisan Word Tiles Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
 - 🌠 **Κατακρήμνιση Βαρύτητας (Gravity Collapse):** Οι λέξεις εξαφανίζονται με ρεαλιστικά σωματίδια ξύλου και νέα γράμματα πέφτουν από ψηλά σε πραγματικό χρόνο!
-- 📜 **Brain Quiz Trivia Targets:** 200 ερωτήσεις γνώσεων ανά γλώσσα (400 συνολικά) σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη και Τέχνες. Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
+- 📜 **Brain Quiz Trivia Targets:** 400 ερωτήσεις γνώσεων ανά γλώσσα (800 συνολικά) σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη, Τέχνες και Φύση, συν 200 επιπλέον λέξεις καθημερινού λεξιλογίου! Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
 - ⚡ **4 Ειδικά Πλακίδια Δύναμης:**
   - ⚡ **Κεραυνός (Lightning Tile):** Καθαρίζει ολόκληρη τη γραμμή και τη στήλη σε ένα φωτεινό shockwave!
   - ★ **Prism Wild (Μπαλαντέρ):** Λαμπερό μπαλαντέρ που ταιριάζει με οποιοδήποτε γράμμα.
