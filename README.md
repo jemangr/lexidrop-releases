@@ -61,8 +61,9 @@
 
 ---
 
-## ✨ Χαρακτηριστικά & Δυνατότητες (v1.2.0)
+## ✨ Χαρακτηριστικά & Δυνατότητες (v1.3.0)
 
+- 🎨 **Bouncy Cartoon 3D UI (Artisan Goblin Workshop):** Εμπνευσμένο από το στυλ του Gold & Goblins, με σκαλιστό μαόνι, ορειχάλκινα highlights, 3D pillow buttons και offline ελληνική cartoon γραμματοσειρά GameDisplay (M PLUS Rounded 1c).
 - 🔠 **Artisan Word Tiles Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
 - 🌠 **Κατακρήμνιση Βαρύτητας (Gravity Collapse):** Οι λέξεις εξαφανίζονται με ρεαλιστικά σωματίδια ξύλου και νέα γράμματα πέφτουν από ψηλά σε πραγματικό χρόνο!
 - 📜 **Brain Quiz Trivia Targets:** 400 ερωτήσεις γνώσεων ανά γλώσσα (800 συνολικά) σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη, Τέχνες και Φύση, συν 200 επιπλέον λέξεις καθημερινού λεξιλογίου! Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
@@ -75,8 +76,8 @@
 - 🏆 **Αίθουσα 10 Επιτευγμάτων & Τροπαίων:** Ξεκλειδώστε μοναδικά παράσημα (Πρωτομάστορας, Σοφός του Ολύμπου, Αστραπιαίος, Μεγαλολεξικό, Καταστροφέας κ.ά.).
 - 📢 **Κοινοποίηση Σκορ:** Με ένα κλικ μοιραστείτε τα ρεκόρ και τις καθημερινές σας νίκες μέσω Web Share API ή Clipboard.
 - 🎨 **3 Μοναδικά Θέματα Γραφικών:**
-  1. **Obsidian Glass:** Μοντέρνο Dark Mode με frosted glass και neon cyan λάμψη.
-  2. **Artisan Word Tiles (Default):** Vintage γραφείο καρυδιάς, παλαιωμένη περγαμηνή και σκαλιστά πλακίδια από ελεφαντόδοντο.
+  1. **Artisan Word Tiles (Default):** Σκαλιστό μαόνι, χρυσός ορείχαλκος και πλακίδια ελεφαντόδοντου (Bouncy 3D).
+  2. **Obsidian Glass:** Dark mode με frosted glass και neon cyan λάμψη.
   3. **Candy Clay:** Παιχνιδιάρικο 3D pop με λαχταριστά ζελεδάκια καραμέλας.
 - 🕹️ **4 Game Modes:** Classic, 60s Blitz (Word Rush), Zen, και Daily Challenge.
 - 🇬🇷 / 🇬🇧 **Δίγλωσσο Λεξικό:** Άμεση αλλαγή μεταξύ Ελληνικών και Αγγλικών λεξικών και ερωτήσεων trivia.
@@ -86,19 +87,23 @@
 
 ---
 
-## 📸 Screenshots Gallery
+## 📸 Screenshots Gallery (Bouncy 3D UI)
 
-| 1. Obsidian Glass | 2. Artisan Word Tiles (Default) | 3. Candy Clay |
+| 1. Artisan Word Tiles (Default) | 2. Drag & Connect Mechanics | 3. Trivia Solved & Fanfare |
 | :---: | :---: | :---: |
-| <img src="screenshots/lexidrop_theme_obsidian.png" width="220" /> | <img src="screenshots/lexidrop_theme_artisan.png" width="220" /> | <img src="screenshots/lexidrop_theme_clay.png" width="220" /> |
+| <img src="screenshots/lexidrop_theme_artisan.png" width="220" /> | <img src="screenshots/lexidrop_drag_preview.png" width="220" /> | <img src="screenshots/lexidrop_trivia_burst.png" width="220" /> |
 
-| 4. Achievements Hall | 5. Daily Challenge Mode | 6. Settings & Audio |
+| 4. Obsidian Glass Theme | 5. Candy Clay 3D Pop | 6. English Blitz Rush Mode |
+| :---: | :---: | :---: |
+| <img src="screenshots/lexidrop_theme_obsidian.png" width="220" /> | <img src="screenshots/lexidrop_theme_clay.png" width="220" /> | <img src="screenshots/lexidrop_english_blitz.png" width="220" /> |
+
+| 7. Achievements Hall | 8. Daily Challenge Mode | 9. Settings & Audio |
 | :---: | :---: | :---: |
 | <img src="screenshots/lexidrop_achievements_modal.png" width="220" /> | <img src="screenshots/lexidrop_daily_mode.png" width="220" /> | <img src="screenshots/lexidrop_settings_modal.png" width="220" /> |
 
-| 7. Our Other Apps (jemangr.app) | 8. English Blitz Mode |
-| :---: | :---: |
-| <img src="screenshots/lexidrop_apps_modal.png" width="220" /> | <img src="screenshots/lexidrop_english_blitz.png" width="220" /> |
+| 10. How to Play / Rules | 11. Our Other Apps (jemangr.app) | 12. Next Round Momentum |
+| :---: | :---: | :---: |
+| <img src="screenshots/lexidrop_help_modal.png" width="220" /> | <img src="screenshots/lexidrop_apps_modal.png" width="220" /> | <img src="screenshots/lexidrop_next_round.png" width="220" /> |
 
 ---
 
