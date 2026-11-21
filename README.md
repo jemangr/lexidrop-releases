@@ -26,7 +26,7 @@
   <a href="https://jemangr.app">
     <img src="https://img.shields.io/badge/🚀_Portfolio-jemangr.app-orange?style=for-the-badge" alt="jemangr.app" />
   </a>
-  <img src="https://img.shields.io/badge/Version-v1.2.0-brightgreen?style=for-the-badge" alt="Version v1.2.0" />
+  <img src="https://img.shields.io/badge/Version-v1.3.0-brightgreen?style=for-the-badge" alt="Version v1.3.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.lexidrop-blue?style=for-the-badge" alt="Package app.jemangr.lexidrop" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" alt="License" />
 </p>
