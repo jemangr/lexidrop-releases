@@ -63,7 +63,7 @@
 
 ## ✨ Χαρακτηριστικά & Δυνατότητες (v1.3.0)
 
-- 🎨 **Bouncy Cartoon 3D UI (Artisan Goblin Workshop):** Εμπνευσμένο από το στυλ του Gold & Goblins, με σκαλιστό μαόνι, ορειχάλκινα highlights, 3D pillow buttons και offline ελληνική cartoon γραμματοσειρά GameDisplay (M PLUS Rounded 1c).
+- 🎨 **Bouncy Cartoon 3D UI (Artisan Workshop):** Με σκαλιστό μαόνι, ορειχάλκινα highlights, 3D pillow buttons και offline ελληνική cartoon γραμματοσειρά GameDisplay (M PLUS Rounded 1c).
 - 🔠 **Artisan Word Tiles Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
 - 🌠 **Κατακρήμνιση Βαρύτητας (Gravity Collapse):** Οι λέξεις εξαφανίζονται με ρεαλιστικά σωματίδια ξύλου και νέα γράμματα πέφτουν από ψηλά σε πραγματικό χρόνο!
 - 📜 **Brain Quiz Trivia Targets:** 400 ερωτήσεις γνώσεων ανά γλώσσα (800 συνολικά) σε Γεωγραφία, Ιστορία, Μυθολογία, Επιστήμη, Τέχνες και Φύση, συν 200 επιπλέον λέξεις καθημερινού λεξιλογίου! Εντοπίστε τη λέξη-στόχο για τεράστιο bonus score και χρυσό fanfare!
