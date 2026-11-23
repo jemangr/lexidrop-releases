@@ -1,13 +1,13 @@
 {
   "name": "LexiDrop",
   "package": "app.jemangr.lexidrop",
-  "version": "1.3.0",
-  "version_code": 10300,
-  "release_date": "2026-11-21",
+  "version": "1.4.0",
+  "version_code": 10400,
+  "release_date": "2026-11-23",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/lexidrop-releases/releases/latest/download/lexidrop.apk",
   "releases_url": "https://github.com/jemangr/lexidrop-releases/releases",
-  "release_notes_el": "Έκδοση v1.3.0: 🎨 Πλήρης Bouncy Cartoon 3D αναβάθμιση UI (Artisan Goblin Workshop)! Ενσωματωμένη offline ελληνική cartoon γραμματοσειρά GameDisplay (M PLUS Rounded 1c), 16 νέα 3D εικονίδια webp, σκαλιστές κάψουλες πόρων με ορειχάλκινα highlights, glossy 3D pillow buttons και ανανεωμένα 3D modals.",
-  "release_notes_en": "Version v1.3.0: 🎨 Major Bouncy Cartoon 3D UI overhaul (Artisan Goblin Workshop)! Offline GameDisplay Greek cartoon font (M PLUS Rounded 1c), 16 custom baked 3D webp icons, carved mahogany resource capsules with golden brass rim highlights, glossy 3D pillow action buttons, and sculpted modals."
+  "release_notes_el": "Έκδοση v1.4.0: 💡 Νέο σύστημα κλιμακωτών υποδείξεων 4 βαθμίδων (1ο γράμμα, 2 γράμματα, 3 γράμματα, ολόκληρη λέξη) με διαφήμιση μετά την 3η πίστα. 🧩 Ισορροπία δυσκολίας ταμπλό: αφαίρεση αυτόματου χρωματισμού γραμμάτων για αυθεντική εμπειρία εύρεσης λέξεων. 🔴 Νέο κόκκινο κουμπί κλεισίματος (✕) στο πάνω δεξί μέρος των Ρυθμίσεων χωρίς scroll.",
+  "release_notes_en": "Version v1.4.0: 💡 New 4-tier progressive hint system (1st letter, 2 letters, 3 letters, full word) with ad-supported tips after stage 3. 🧩 Balanced board difficulty: removed automatic letter highlighting for authentic word-finding gameplay. 🔴 New red close button (✕) at the top-right corner of Settings modal without scrolling."
 }

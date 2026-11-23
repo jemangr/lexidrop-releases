@@ -26,7 +26,7 @@
   <a href="https://jemangr.app">
     <img src="https://img.shields.io/badge/🚀_Portfolio-jemangr.app-orange?style=for-the-badge" alt="jemangr.app" />
   </a>
-  <img src="https://img.shields.io/badge/Version-v1.3.0-brightgreen?style=for-the-badge" alt="Version v1.3.0" />
+  <img src="https://img.shields.io/badge/Version-v1.4.0-brightgreen?style=for-the-badge" alt="Version v1.4.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.lexidrop-blue?style=for-the-badge" alt="Package app.jemangr.lexidrop" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" alt="License" />
 </p>
@@ -61,7 +61,11 @@
 
 ---
 
-## ✨ Χαρακτηριστικά & Δυνατότητες (v1.3.0)
+## ✨ Χαρακτηριστικά & Δυνατότητες (v1.4.0)
+
+- 💡 **Κλιμακωτές Υποδείξεις 4 Βαθμίδων (Progressive Hints):** Η λάμπα αποκαλύπτει σταδιακά βοήθεια (1ο γράμμα ➔ 2 γράμματα ➔ 3 γράμματα ➔ ολόκληρη λέξη) με δυνατότητα διαφήμισης μετά την 3η πίστα.
+- 🔴 **Κουμπί Κλεισίματος Ρυθμίσεων (✕):** Μόνιμο κόκκινο 3D κουμπί στην πάνω δεξιά γωνία του παραθύρου ρυθμίσεων χωρίς ανάγκη κύλισης (scroll).
+- 🧩 **Ισορροπημένο Ταμπλό:** Πλήρης ομοιομορφία στα γράμματα του ταμπλό για αυθεντική εμπειρία αναζήτησης λέξεων χωρίς spoilers.
 
 - 🎨 **Bouncy Cartoon 3D UI (Artisan Workshop):** Με σκαλιστό μαόνι, ορειχάλκινα highlights, 3D pillow buttons και offline ελληνική cartoon γραμματοσειρά GameDisplay (M PLUS Rounded 1c).
 - 🔠 **Artisan Word Tiles Mechanics:** Σύρετε το δάχτυλό σας προς οποιαδήποτε κατεύθυνση (οριζόντια, κάθετα, διαγώνια) για να σχηματίσετε έγκυρες λέξεις στο ταμπλό 7×8.
